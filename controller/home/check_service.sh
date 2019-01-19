@@ -1,5 +1,3 @@
-#!/bin/bash
-
 source ~/admin_openrc.sh
 set -x
 openstack compute service list
